@@ -1,4 +1,4 @@
-# Simple-Text-Editor
+# Scribble
 I created a simple text editor using Tkinter and Python3 named Scribble.
 
 This text editor has 2 main sub categories:
